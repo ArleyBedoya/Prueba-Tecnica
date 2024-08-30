@@ -16,7 +16,6 @@ namespace GestorDeTareas
             Estado = "En proceso";
         }
     }
-
     class Program
     {
         static List<Tarea> tareas = new List<Tarea>();
